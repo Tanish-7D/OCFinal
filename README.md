@@ -22,9 +22,13 @@ Purpose of App - This app allows the user an insight into the environment scienc
 	•	Unsplash - For fetching beautiful nature imagery
 
 📸 Screenshots
+
+
 <img width="250" alt="Screenshot 2025-04-05 at 3 00 47 PM" src="https://github.com/user-attachments/assets/e07d0dec-378e-4cf3-8fc2-2cd77060babd" />
 
 <img width="250" alt="Screenshot 2025-04-05 at 3 01 23 PM" src="https://github.com/user-attachments/assets/fb68c659-4bda-48ab-9485-248ee617045a" />
+
+
 
 📖 How to Play
 	1.	Clone the repository
