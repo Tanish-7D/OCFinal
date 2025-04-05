@@ -2,6 +2,10 @@
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
+Summary of App - This app gives the user a look into the enviornmental steps they can take to better their community
+Purpose of App - This app allows the user an insight into the enviornment science world and how they can better influence their community
+
+## FlutLab Read Me v
 ## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
