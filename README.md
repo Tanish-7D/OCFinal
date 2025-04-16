@@ -1,4 +1,4 @@
-# OC Hacks ReadMe
+Official O'Connor Hacks Project achieving 2nd place by Veera Tanish Reddy Doorsala, Javier Saladana, Ryan Godson Mathuram, and  Morgen Leija!
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
